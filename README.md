@@ -47,8 +47,10 @@ Currently exploring AI/data engineering to build smarter systems✨
 
 ## 📊 GitHub
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jsangjii&theme=flat&column=7&margin-w=8&no-frame=true)
+## 📊 GitHub
 
-[![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true&hide_border=true)](https://github.com/jsangjii)
+[![Sangji's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true&hide_border=true)](https://github.com/jsangjii)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsangjii&layout=compact&theme=default&hide_border=true)](https://github.com/jsangjii)
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=jsangjii&theme=github-light&hide_border=true&area=true)
