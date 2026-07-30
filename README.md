@@ -3,9 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourid)
 
 👋 Hi there! I'm a **backend developer** building end-to-end services. 🚀
-I work across Django, Node.js, and Spring Boot, with a build-it-first mindset. 💖
 
-I enjoy shipping real products — from APIs to deployment. 🛠️✨
+I work across Django, Node.js, and Spring Boot, with a build-it-first mindset💖
+
+
+I enjoy shipping real products — from APIs to deployment🛠️✨
+
 I hope to build every meaningful thing.
 
 
@@ -44,5 +47,5 @@ I hope to build every meaningful thing.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsangjii&layout=compact&theme=default)
