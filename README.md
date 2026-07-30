@@ -47,8 +47,6 @@ Currently exploring AI/data engineering to build smarter systems✨
 
 ## 📊 GitHub
 
-## 📊 GitHub
-
 [![Sangji's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true&hide_border=true)](https://github.com/jsangjii)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsangjii&layout=compact&theme=default&hide_border=true)](https://github.com/jsangjii)
