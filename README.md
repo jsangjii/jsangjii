@@ -3,10 +3,11 @@
 
 👋 Hi there! I'm a **backend developer** building end-to-end services. 🚀
 
-I work across Django, Node.js, and Spring Boot, with a build-it-first mindset💖
+I work across Django, Node.js, and Spring Boot, with a build-it-first mindset. 💖
 
 
-I enjoy shipping real products — from APIs to deployment🛠️✨
+
+I enjoy shipping real products — from APIs to deployment. 🛠️✨
 
 I hope to build every meaningful thing.
 
@@ -27,6 +28,7 @@ I hope to build every meaningful thing.
 
 **Database**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-008BB9?style=flat&logo=postgresql&logoColor=white)
 
@@ -44,7 +46,11 @@ I hope to build every meaningful thing.
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsangjii&layout=compact&theme=default)
+![trophy](https://github-profile-trophy.vercel.app/?username=jsangjii&theme=flat&column=7&margin-w=8&no-frame=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsangjii&layout=compact&theme=default&hide_border=true" height="165"/>
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=jsangjii&theme=github-light&hide_border=true&area=true)
