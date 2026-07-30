@@ -1,6 +1,5 @@
 [![Blog](https://img.shields.io/badge/Blog-FF69B4?style=flat&logo=github&logoColor=white)](https://your-blog.com)
-[![Gmail](https://img.shields.io/badge/your.email@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourid)
+[![Gmail](https://img.shields.io/badge/jsangjii@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jsangjii@gmail.com)
 
 👋 Hi there! I'm a **backend developer** building end-to-end services. 🚀
 
