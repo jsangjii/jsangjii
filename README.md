@@ -1,15 +1,14 @@
 [![Blog](https://img.shields.io/badge/Blog-FF69B4?style=flat&logo=github&logoColor=white)](https://your-blog.com)
 [![Gmail](https://img.shields.io/badge/jsangjii@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jsangjii@gmail.com)
 
-👋 Hi there! I'm a **backend developer** building end-to-end services. 🚀
+👋 Hi! I'm a **backend developer** who builds end-to-end services🚀
 
-I work across Django, Node.js, and Spring Boot, with a build-it-first mindset. 💖
+I work across Django, Node.js, and Spring Boot with a build-it-first mindset💖
 
 
+From API design to AWS deployment, I enjoy shipping real products that work. 
 
-I enjoy shipping real products — from APIs to deployment. 🛠️✨
-
-I hope to build every meaningful thing.
+Currently exploring AI/data engineering to build smarter systems✨
 
 
 ## 💪 Skills
@@ -50,7 +49,6 @@ I hope to build every meaningful thing.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jsangjii&theme=flat&column=7&margin-w=8&no-frame=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsangjii&layout=compact&theme=default&hide_border=true" height="165"/>
+[![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true&hide_border=true)](https://github.com/jsangjii)
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=jsangjii&theme=github-light&hide_border=true&area=true)
