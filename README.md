@@ -1,4 +1,3 @@
-[![Blog](https://img.shields.io/badge/Blog-FF69B4?style=flat&logo=github&logoColor=white)](https://your-blog.com)
 [![Gmail](https://img.shields.io/badge/jsangjii@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jsangjii@gmail.com)
 
 👋 Hi! I'm a **backend developer** who builds end-to-end services🚀
@@ -46,9 +45,5 @@ Currently exploring AI/data engineering to build smarter systems✨
 
 
 ## 📊 GitHub
-
-[![Sangji's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsangjii&show_icons=true&theme=default&count_private=true&hide_border=true)](https://github.com/jsangjii)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsangjii&layout=compact&theme=default&hide_border=true)](https://github.com/jsangjii)
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=jsangjii&theme=github-light&hide_border=true&area=true)
